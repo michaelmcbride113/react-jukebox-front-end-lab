@@ -1,5 +1,3 @@
-// src/components/PetDetail/PetDetail.jsx
-
 const TrackDetail = (props) => {
     if (!props.selected) {
       return (
